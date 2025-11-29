@@ -5,4 +5,8 @@ void say_hello();
 
 int multiply(int a, int b);  // Nouveau
 
+
+int add(int a, int b);
+
+
 #endif
